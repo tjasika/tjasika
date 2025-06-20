@@ -1,6 +1,7 @@
-## Hi there 👋 I'm Tjaša!
+## Hi there I'm Tjaša! 👩🏻‍💻👋🏻
 I am a first-year computer science student from Slovenia, currently exploring the world of web development and building a strong foundation in software engineering.
-Although I had no prior coding experience when I began university, the challenge quickly turned into an exciting opportunity to learn. Along the way, I discovered my interest for web development, which I am now learning on my own, combining my technical skills and creativity.
+I am excited to share and document my progess here on GitHub! 🚀
+
 <!--
 **tjasika/tjasika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
