@@ -2,6 +2,11 @@
 I am a first-year computer science student from Slovenia, currently exploring the world of web development and building a strong foundation in software engineering.
 I am excited to share and document my progess here on GitHub! 🚀
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### My current skills
+
+
 <!--
 **tjasika/tjasika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
