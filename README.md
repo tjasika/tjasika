@@ -21,7 +21,7 @@ Other:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjasika&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjasika&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjasika&layout=compact&theme=radical)
 
 
