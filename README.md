@@ -24,7 +24,7 @@ Other:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjasika&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjasika&layout=compact&theme=tokyonight)
 
-![snake gif](https://github.com/tjasika/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/tjasika/tjasika/blob/output/github-contribution-grid-snake.svg)
 
 
 
