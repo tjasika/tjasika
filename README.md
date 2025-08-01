@@ -19,7 +19,6 @@ Other:
 
 ### What I'm currently learning:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](https://www.figma.com/)
 
 ### Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjasika&show_icons=true&theme=tokyonight)  
