@@ -1,6 +1,6 @@
 ## Hi there, I'm Tjaša! 👩🏻‍💻👋🏻
 I am a second-year computer science student from Slovenia, currently exploring the world of web development and building a strong foundation in software engineering.
-I am excited to share and document my progess here on GitHub! 🚀
+Though still very much a beginner, I am excited to share and document my progess here on GitHub! 🚀
 
 ### My current skills:
 Front-end:  
